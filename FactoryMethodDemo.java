@@ -25,11 +25,6 @@ public class FactoryMethodDemo {
     edu.purpose();
     edu.topic();
 
-
-
-
-
-
     }
 }
 
