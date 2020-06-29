@@ -4,40 +4,40 @@
     <facet type="hibernate" name="Hibernate">
       <configuration>
         <datasource-map>
-          <unit-entry name="Hibernate:Annotation:out:production:Annotation:Configure.xml" />
-          <unit-entry name="Hibernate:Annotation:src:Configure.xml" />
-          <unit-entry name="Hibernate:FirstHibernate:out:production:FirstHibernate:configure.xml" />
-          <unit-entry name="Hibernate:FirstHibernate:src:configure.xml" />
-          <unit-entry name="Hibernate:HQLMapping:out:production:HQLMapping:Configure.xml" />
-          <unit-entry name="Hibernate:HQLMapping:src:Configure.xml" />
-          <unit-entry name="Hibernate:HQLSample:out:production:HQLSample:configure.xml" />
-          <unit-entry name="Hibernate:HQLSample:src:configure.xml" />
-          <unit-entry name="Hibernate:ManyToMany:out:production:ManyToMany:Configure.xml" />
-          <unit-entry name="Hibernate:ManyToMany:src:Configure.xml" />
-          <unit-entry name="Hibernate:ManyToOne:out:production:ManyToOne:Configure.xml" />
-          <unit-entry name="Hibernate:ManyToOne:src:Configure.xml" />
-          <unit-entry name="Hibernate:OnetoMany:out:production:OnetoMany:Configure.xml" />
-          <unit-entry name="Hibernate:OnetoMany:src:Configure.xml" />
-          <unit-entry name="Hibernate:ProductsHibernate:out:production:ProductsHibernate:configure.xml" />
-          <unit-entry name="Hibernate:ProductsHibernate:src:configure.xml" />
-          <unit-entry name="Hibernate:TablePerClass:src:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:CarCompany:.metadata:.plugins:org.eclipse.wst.server.core:tmp0:wtpwebapps:CarCompany_HibernateServlet:WEB-INF:classes:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_HibernateServlet:build:classes:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_HibernateServlet:src:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_ServletHibernate:build:classes:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_ServletHibernate:src:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:FirstHibernate:bin:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:FirstHibernate:src:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:HQLSample:bin:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:HQLSample:src:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:Hibernate_Servlet:build:classes:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:Hibernate_Servlet:src:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:ServletHibernate:build:classes:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:ServletHibernate:src:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:TablePerClass:bin:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:TablePerClass:src:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:Servlet_Hibernate_RegisterLogin:build:classes:configure.xml" />
-          <unit-entry name="Servlet and Hibernate:Servlet_Hibernate_RegisterLogin:src:configure.xml" />
+          <unit-entry name="Hibernate:Annotation:out:production:Annotation:Configure.xml" value="1bb94ac2-bed6-43ed-8639-b8caf691278c" />
+          <unit-entry name="Hibernate:Annotation:src:Configure.xml" value="b3b5b3be-d7aa-48ef-b617-746ef9e6b8bd" />
+          <unit-entry name="Hibernate:FirstHibernate:out:production:FirstHibernate:configure.xml" value="77f03d86-d84f-4cfe-b5b1-bc2bd39196c0" />
+          <unit-entry name="Hibernate:FirstHibernate:src:configure.xml" value="d940f598-a8ec-4fa4-9964-30f7f7a0efab" />
+          <unit-entry name="Hibernate:HQLMapping:out:production:HQLMapping:Configure.xml" value="d41257eb-94b6-4bd4-bf15-53d1289c70c6" />
+          <unit-entry name="Hibernate:HQLMapping:src:Configure.xml" value="b6fd1372-5267-4176-b7d5-e6d33a0996eb" />
+          <unit-entry name="Hibernate:HQLSample:out:production:HQLSample:configure.xml" value="fd3d3e87-a110-402f-b479-ccc4be114511" />
+          <unit-entry name="Hibernate:HQLSample:src:configure.xml" value="cf17fc0b-19f7-459c-bf30-7177b24f8704" />
+          <unit-entry name="Hibernate:ManyToMany:out:production:ManyToMany:Configure.xml" value="1b583941-8168-4308-8e1b-6c653a22f72d" />
+          <unit-entry name="Hibernate:ManyToMany:src:Configure.xml" value="23e533dc-c03a-4738-bae4-6aff721fce20" />
+          <unit-entry name="Hibernate:ManyToOne:out:production:ManyToOne:Configure.xml" value="0a39aadc-7dd7-45da-9a1f-e7cbd0fbdc95" />
+          <unit-entry name="Hibernate:ManyToOne:src:Configure.xml" value="b6838637-acd6-467d-aefc-09d6cfc1e9d6" />
+          <unit-entry name="Hibernate:OnetoMany:out:production:OnetoMany:Configure.xml" value="ae5efc3e-64e0-473e-bbaa-82a6f306c838" />
+          <unit-entry name="Hibernate:OnetoMany:src:Configure.xml" value="86ff0280-9854-4dfb-9c44-18f4ccfef4dd" />
+          <unit-entry name="Hibernate:ProductsHibernate:out:production:ProductsHibernate:configure.xml" value="2badad32-d9f5-4d6a-a9d1-ae493d2b5f12" />
+          <unit-entry name="Hibernate:ProductsHibernate:src:configure.xml" value="973623f4-068f-480c-8ed2-adb05b2824bb" />
+          <unit-entry name="Hibernate:TablePerClass:src:configure.xml" value="aaaae71d-fad6-45c4-8948-d7661a48cab6" />
+          <unit-entry name="Servlet and Hibernate:CarCompany:.metadata:.plugins:org.eclipse.wst.server.core:tmp0:wtpwebapps:CarCompany_HibernateServlet:WEB-INF:classes:configure.xml" value="b0fd6d20-436a-4a5a-94b8-2d333461502c" />
+          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_HibernateServlet:build:classes:configure.xml" value="1dbc1e75-d644-419b-b9b5-51ad2264c3f9" />
+          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_HibernateServlet:src:configure.xml" value="2cb2a168-8d44-4068-97e2-194aab59291b" />
+          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_ServletHibernate:build:classes:configure.xml" value="49b890fa-62f3-469d-9458-a4bc2b6eb12f" />
+          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_ServletHibernate:src:configure.xml" value="10ac4ef5-8b0d-4089-a58e-34c254d1704d" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:FirstHibernate:bin:configure.xml" value="2c9314da-ab77-469f-900a-d27f0dc44e3a" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:FirstHibernate:src:configure.xml" value="45a5aa4c-78e6-404d-8d11-3a0642d95b6d" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:HQLSample:bin:configure.xml" value="be3ca4e6-08dc-482e-9356-95aee784a11b" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:HQLSample:src:configure.xml" value="13ea94e8-c492-40e0-b2c8-da1e973d00a2" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:Hibernate_Servlet:build:classes:configure.xml" value="e1c321db-7935-4f17-835a-f150fc5e32e8" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:Hibernate_Servlet:src:configure.xml" value="dcae8ad0-c311-4ff1-a227-0e027d4bf7fd" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:ServletHibernate:build:classes:configure.xml" value="84a7bda7-dd44-4b0f-9adc-170f5bcd72ae" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:ServletHibernate:src:configure.xml" value="8d06e4aa-99d2-441b-a017-6efb6e14e013" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:TablePerClass:bin:configure.xml" value="2976ccf4-e1ab-459c-84ca-104dc9357a1b" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:TablePerClass:src:configure.xml" value="40c04a07-cea6-402b-b327-f69fbded872b" />
+          <unit-entry name="Servlet and Hibernate:Servlet_Hibernate_RegisterLogin:build:classes:configure.xml" value="338bec55-7154-4fa3-a145-6446f2b5a6d4" />
+          <unit-entry name="Servlet and Hibernate:Servlet_Hibernate_RegisterLogin:src:configure.xml" value="6f3f8ea4-db08-4ffb-8767-f07c3c2f8319" />
         </datasource-map>
         <naming-strategy-map />
         <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/Annotation/out/production/Annotation/Configure.xml" />

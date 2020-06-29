@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Servlet and Hibernate:CarCompany:.metadata:.plugins:org.eclipse.wst.server.core:tmp0:wtpwebapps:CarCompany_HibernateServlet:WEB-INF:classes:configure.xml/Hibernate" uuid="b0fd6d20-436a-4a5a-94b8-2d333461502c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/CarCompany/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/CarCompany_HibernateServlet/WEB-INF/classes/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:ServletJSPProjects:FirstHibernate:src:configure.xml/Hibernate" uuid="45a5aa4c-78e6-404d-8d11-3a0642d95b6d">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/ServletJSPProjects/FirstHibernate/src/configure.xml</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:xe</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:FirstHibernate:src:configure.xml/Hibernate" uuid="d940f598-a8ec-4fa4-9964-30f7f7a0efab">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/FirstHibernate/src/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:ServletJSPProjects:Hibernate_Servlet:src:configure.xml/Hibernate" uuid="dcae8ad0-c311-4ff1-a227-0e027d4bf7fd">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/ServletJSPProjects/Hibernate_Servlet/src/configure.xml</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:xe</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:Annotation:src:Configure.xml/Hibernate" uuid="b3b5b3be-d7aa-48ef-b617-746ef9e6b8bd">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/Annotation/src/Configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:ServletJSPProjects:Hibernate_Servlet:build:classes:configure.xml/Hibernate" uuid="e1c321db-7935-4f17-835a-f150fc5e32e8">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/ServletJSPProjects/Hibernate_Servlet/build/classes/configure.xml</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:xe</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:HQLMapping:out:production:HQLMapping:Configure.xml/Hibernate" uuid="d41257eb-94b6-4bd4-bf15-53d1289c70c6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/HQLMapping/out/production/HQLMapping/Configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:ServletJSPProjects:HQLSample:src:configure.xml/Hibernate" uuid="13ea94e8-c492-40e0-b2c8-da1e973d00a2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/ServletJSPProjects/HQLSample/src/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:Servlet_Hibernate_RegisterLogin:build:classes:configure.xml/Hibernate" uuid="338bec55-7154-4fa3-a145-6446f2b5a6d4">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/Servlet_Hibernate_RegisterLogin/build/classes/configure.xml</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:xe</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:ServletJSPProjects:TablePerClass:src:configure.xml/Hibernate" uuid="40c04a07-cea6-402b-b327-f69fbded872b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/ServletJSPProjects/TablePerClass/src/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:ManyToMany:src:Configure.xml/Hibernate" uuid="23e533dc-c03a-4738-bae4-6aff721fce20">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/ManyToMany/src/Configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:ManyToOne:src:Configure.xml/Hibernate" uuid="b6838637-acd6-467d-aefc-09d6cfc1e9d6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/ManyToOne/src/Configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:ServletJSPProjects:TablePerClass:bin:configure.xml/Hibernate" uuid="2976ccf4-e1ab-459c-84ca-104dc9357a1b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/ServletJSPProjects/TablePerClass/bin/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:Annotation:out:production:Annotation:Configure.xml/Hibernate" uuid="1bb94ac2-bed6-43ed-8639-b8caf691278c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/Annotation/out/production/Annotation/Configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:CarCompany:CarCompany_ServletHibernate:build:classes:configure.xml/Hibernate" uuid="49b890fa-62f3-469d-9458-a4bc2b6eb12f">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/CarCompany/CarCompany_ServletHibernate/build/classes/configure.xml</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:xe</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:ProductsHibernate:out:production:ProductsHibernate:configure.xml/Hibernate" uuid="2badad32-d9f5-4d6a-a9d1-ae493d2b5f12">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/ProductsHibernate/out/production/ProductsHibernate/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:ManyToMany:out:production:ManyToMany:Configure.xml/Hibernate" uuid="1b583941-8168-4308-8e1b-6c653a22f72d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/ManyToMany/out/production/ManyToMany/Configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:CarCompany:CarCompany_HibernateServlet:src:configure.xml/Hibernate" uuid="2cb2a168-8d44-4068-97e2-194aab59291b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/CarCompany/CarCompany_HibernateServlet/src/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:Servlet_Hibernate_RegisterLogin:src:configure.xml/Hibernate" uuid="6f3f8ea4-db08-4ffb-8767-f07c3c2f8319">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/Servlet_Hibernate_RegisterLogin/src/configure.xml</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:xe</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:ManyToOne:out:production:ManyToOne:Configure.xml/Hibernate" uuid="0a39aadc-7dd7-45da-9a1f-e7cbd0fbdc95">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/ManyToOne/out/production/ManyToOne/Configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:ServletJSPProjects:HQLSample:bin:configure.xml/Hibernate" uuid="be3ca4e6-08dc-482e-9356-95aee784a11b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/ServletJSPProjects/HQLSample/bin/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:ProductsHibernate:src:configure.xml/Hibernate" uuid="973623f4-068f-480c-8ed2-adb05b2824bb">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/ProductsHibernate/src/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:ServletJSPProjects:FirstHibernate:bin:configure.xml/Hibernate" uuid="2c9314da-ab77-469f-900a-d27f0dc44e3a">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/ServletJSPProjects/FirstHibernate/bin/configure.xml</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:xe</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:OnetoMany:src:Configure.xml/Hibernate" uuid="86ff0280-9854-4dfb-9c44-18f4ccfef4dd">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/OnetoMany/src/Configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:ServletJSPProjects:ServletHibernate:src:configure.xml/Hibernate" uuid="8d06e4aa-99d2-441b-a017-6efb6e14e013">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/ServletJSPProjects/ServletHibernate/src/configure.xml</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:xe</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:HQLMapping:src:Configure.xml/Hibernate" uuid="b6fd1372-5267-4176-b7d5-e6d33a0996eb">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/HQLMapping/src/Configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:ServletJSPProjects:ServletHibernate:build:classes:configure.xml/Hibernate" uuid="84a7bda7-dd44-4b0f-9adc-170f5bcd72ae">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/ServletJSPProjects/ServletHibernate/build/classes/configure.xml</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:xe</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:HQLSample:out:production:HQLSample:configure.xml/Hibernate" uuid="fd3d3e87-a110-402f-b479-ccc4be114511">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/HQLSample/out/production/HQLSample/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:CarCompany:CarCompany_HibernateServlet:build:classes:configure.xml/Hibernate" uuid="1dbc1e75-d644-419b-b9b5-51ad2264c3f9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/CarCompany/CarCompany_HibernateServlet/build/classes/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Servlet and Hibernate:CarCompany:CarCompany_ServletHibernate:src:configure.xml/Hibernate" uuid="10ac4ef5-8b0d-4089-a58e-34c254d1704d">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Servlet and Hibernate/CarCompany/CarCompany_ServletHibernate/src/configure.xml</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:xe</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:TablePerClass:src:configure.xml/Hibernate" uuid="aaaae71d-fad6-45c4-8948-d7661a48cab6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/TablePerClass/src/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:FirstHibernate:out:production:FirstHibernate:configure.xml/Hibernate" uuid="77f03d86-d84f-4cfe-b5b1-bc2bd39196c0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/FirstHibernate/out/production/FirstHibernate/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:HQLSample:src:configure.xml/Hibernate" uuid="cf17fc0b-19f7-459c-bf30-7177b24f8704">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/HQLSample/src/configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hibernate:OnetoMany:out:production:OnetoMany:Configure.xml/Hibernate" uuid="ae5efc3e-64e0-473e-bbaa-82a6f306c838">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/imarjun2014/Desktop/Java Programs/Hibernate/OnetoMany/out/production/OnetoMany/Configure.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/lr</jdbc-url>
+    </data-source>
+  </component>
+</project>
