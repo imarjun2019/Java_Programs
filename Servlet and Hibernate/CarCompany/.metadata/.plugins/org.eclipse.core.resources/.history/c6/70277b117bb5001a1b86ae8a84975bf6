@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<bean id="myaccount" class="com.aop.MyAccount"></bean>
+<bean id="ath" class="com.aop.AuthenticationAspect"/>
+
+
+<bean id="pfb" class="org.springframework.aop.ProxyFactoryBean">
+<property name="proxyInterfaces" value="com.aop.Bofa"/>
+<property name="interceptorNames">
+	<list>
+	
+		<value>ath</value>
+		
+	</list>
+
+</property>
+<property name="target">
+	<ref bean="myaccount"/>
+</property>
+
+
+
+</bean>
+</beans>

@@ -1,0 +1,16 @@
+package com.spboot;
+
+public class WelcomeBean {
+	private String message;
+	
+	private void setMessage(String message)
+	{
+		this.message=message;
+	}
+	
+	public void show()
+	{
+		System.out.println(message);
+	}
+
+}

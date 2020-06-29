@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+    <!-- POJO CLASS -->
+    <class name="com.many.Course" table="Course">
+        <id name="cid" column="cid"/>
+        <property name="cname" column="cname"/>
+        <property name="duration" column="duration"/>
+
+        <set name="student" table="students_courses" cascade="all" inverse="false">
+            <key column="csid"></key>
+            <many-to-many class="com.many.Student" column="stid"/>
+        </set>
+
+    </class>
+</hibernate-mapping>

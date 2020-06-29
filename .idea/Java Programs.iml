@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="Hibernate:Annotation:out:production:Annotation:Configure.xml" />
+          <unit-entry name="Hibernate:Annotation:src:Configure.xml" />
+          <unit-entry name="Hibernate:FirstHibernate:out:production:FirstHibernate:configure.xml" />
+          <unit-entry name="Hibernate:FirstHibernate:src:configure.xml" />
+          <unit-entry name="Hibernate:HQLMapping:out:production:HQLMapping:Configure.xml" />
+          <unit-entry name="Hibernate:HQLMapping:src:Configure.xml" />
+          <unit-entry name="Hibernate:HQLSample:out:production:HQLSample:configure.xml" />
+          <unit-entry name="Hibernate:HQLSample:src:configure.xml" />
+          <unit-entry name="Hibernate:ManyToMany:out:production:ManyToMany:Configure.xml" />
+          <unit-entry name="Hibernate:ManyToMany:src:Configure.xml" />
+          <unit-entry name="Hibernate:ManyToOne:out:production:ManyToOne:Configure.xml" />
+          <unit-entry name="Hibernate:ManyToOne:src:Configure.xml" />
+          <unit-entry name="Hibernate:OnetoMany:out:production:OnetoMany:Configure.xml" />
+          <unit-entry name="Hibernate:OnetoMany:src:Configure.xml" />
+          <unit-entry name="Hibernate:ProductsHibernate:out:production:ProductsHibernate:configure.xml" />
+          <unit-entry name="Hibernate:ProductsHibernate:src:configure.xml" />
+          <unit-entry name="Hibernate:TablePerClass:src:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:CarCompany:.metadata:.plugins:org.eclipse.wst.server.core:tmp0:wtpwebapps:CarCompany_HibernateServlet:WEB-INF:classes:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_HibernateServlet:build:classes:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_HibernateServlet:src:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_ServletHibernate:build:classes:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:CarCompany:CarCompany_ServletHibernate:src:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:FirstHibernate:bin:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:FirstHibernate:src:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:HQLSample:bin:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:HQLSample:src:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:Hibernate_Servlet:build:classes:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:Hibernate_Servlet:src:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:ServletHibernate:build:classes:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:ServletHibernate:src:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:TablePerClass:bin:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:ServletJSPProjects:TablePerClass:src:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:Servlet_Hibernate_RegisterLogin:build:classes:configure.xml" />
+          <unit-entry name="Servlet and Hibernate:Servlet_Hibernate_RegisterLogin:src:configure.xml" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/Annotation/out/production/Annotation/Configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/Annotation/src/Configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/FirstHibernate/out/production/FirstHibernate/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/FirstHibernate/src/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/HQLMapping/out/production/HQLMapping/Configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/HQLMapping/src/Configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/HQLSample/out/production/HQLSample/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/HQLSample/src/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/ManyToMany/out/production/ManyToMany/Configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/ManyToMany/src/Configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/ManyToOne/out/production/ManyToOne/Configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/ManyToOne/src/Configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/OnetoMany/out/production/OnetoMany/Configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/OnetoMany/src/Configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/ProductsHibernate/out/production/ProductsHibernate/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/ProductsHibernate/src/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Hibernate/TablePerClass/src/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/CarCompany_HibernateServlet/WEB-INF/classes/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/CarCompany_HibernateServlet/build/classes/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/CarCompany_HibernateServlet/src/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/CarCompany_ServletHibernate/build/classes/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/CarCompany_ServletHibernate/src/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/FirstHibernate/bin/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/FirstHibernate/src/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/HQLSample/bin/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/HQLSample/src/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/Hibernate_Servlet/build/classes/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/Hibernate_Servlet/src/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/ServletHibernate/build/classes/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/ServletHibernate/src/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/TablePerClass/bin/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/TablePerClass/src/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/Servlet_Hibernate_RegisterLogin/build/classes/configure.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/Servlet_Hibernate_RegisterLogin/src/configure.xml" />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/LoginRegisterMVC/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/LoginRegisterMVC/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/CarCompany_ServletHibernate/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/CarCompany_ServletHibernate/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/EmployeeManager/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/EmployeeManager/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/ServletHibernate/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/ServletHibernate/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletDemo/out/artifacts/ServletDemo_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/ServletDemo/out/artifacts/ServletDemo_war_exploded" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletDemo/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/ServletDemo/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/RegisterLoginDemo/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/RegisterLoginDemo/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/RegisterLogin/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/RegisterLogin/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/Servers/Tomcat v7.0 Server at localhost-config/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/Servers/Tomcat v7.0 Server at localhost-config" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/CarCompany_HibernateServlet/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/CarCompany_HibernateServlet/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web12">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/EmployeeManagement/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/EmployeeManagement/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web13">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/Servlet_JSP_Hibernate/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/Servlet_JSP_Hibernate/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web14">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletSmaple/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/ServletSmaple/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web15">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/TestServlet/WebContent/META-INF/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/TestServlet/WebContent/META-INF" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web16">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web17">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/EmployeeManagement(Copy)/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/EmployeeManagement(Copy)/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web18">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/Hibernate_Servlet/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/ServletJSPProjects/Hibernate_Servlet/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web19">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/Servlet_Hibernate_RegisterLogin/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/Servlet_Hibernate_RegisterLogin/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web20">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/EmployeeManagement/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/EmployeeManagement" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web21">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/EmployeeManagement/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/EmployeeManagement/WebContent" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web22">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/CarCompany_HibernateServlet/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Servlet and Hibernate/CarCompany/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/CarCompany_HibernateServlet" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+
+<servlet>
+    <servlet-name>register</servlet-name>
+    <servlet-class>com.sh.RegisterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>register</servlet-name>
+    <url-pattern>/eRegister</url-pattern>
+  </servlet-mapping>
+  
+ <servlet>
+    <servlet-name>mregister</servlet-name>
+    <servlet-class>com.sh.mRegisterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>mregister</servlet-name>
+    <url-pattern>/mRegister</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>elogin</servlet-name>
+    <servlet-class>com.sh.eLoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>elogin</servlet-name>
+    <url-pattern>/mLogin</url-pattern>
+  </servlet-mapping>
+  
+  
+
+
+
+</web-app>

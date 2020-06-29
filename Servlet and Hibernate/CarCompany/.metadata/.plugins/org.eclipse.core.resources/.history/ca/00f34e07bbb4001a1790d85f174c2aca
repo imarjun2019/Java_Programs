@@ -1,0 +1,14 @@
+package com.sh;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class MainLogic {
+
+    ApplicationContext ac = new ClassPathXmlApplicationContext("spconfig.xml");
+    PlayersDao pd = (PlayersDao)ac.getBean("player");
+    Players pl = new Players();
+    
+
+
+}

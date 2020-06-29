@@ -1,0 +1,23 @@
+
+Jun 21, 2020 18:08:33.40 NEW SESSION
+Jun 21, 2020 18:08:33.40 [17944:22924:0621/180833.399:ERROR:external_registry_loader_win.cc(153)] File path "C:\Program Files (x86)\Sony\Media Go\MediaGoDetector.crx" needs to be absolute in key Software\Google\Chrome\Extensions\ihenkjeihefokohmemphikjnjbmegdik
+Jun 21, 2020 18:53:07.73 [17944:4568:0621/185307.730:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jun 21, 2020 20:02:57.23 [16004:25384:0621/200257.232:ERROR:external_registry_loader_win.cc(153)] File path "C:\Program Files (x86)\Sony\Media Go\MediaGoDetector.crx" needs to be absolute in key Software\Google\Chrome\Extensions\ihenkjeihefokohmemphikjnjbmegdik
+Jun 21, 2020 20:06:59.40 [14128:12872:0621/200659.406:ERROR:external_registry_loader_win.cc(153)] File path "C:\Program Files (x86)\Sony\Media Go\MediaGoDetector.crx" needs to be absolute in key Software\Google\Chrome\Extensions\ihenkjeihefokohmemphikjnjbmegdik
+Jun 21, 2020 20:09:54.07 [18328:23188:0621/200954.076:ERROR:external_registry_loader_win.cc(153)] File path "C:\Program Files (x86)\Sony\Media Go\MediaGoDetector.crx" needs to be absolute in key Software\Google\Chrome\Extensions\ihenkjeihefokohmemphikjnjbmegdik
+Jun 21, 2020 20:10:38.21 [9464:1548:0621/201038.215:ERROR:external_registry_loader_win.cc(153)] File path "C:\Program Files (x86)\Sony\Media Go\MediaGoDetector.crx" needs to be absolute in key Software\Google\Chrome\Extensions\ihenkjeihefokohmemphikjnjbmegdik
+Jun 21, 2020 20:14:14.80 [764:17608:0621/201414.804:ERROR:external_registry_loader_win.cc(153)] File path "C:\Program Files (x86)\Sony\Media Go\MediaGoDetector.crx" needs to be absolute in key Software\Google\Chrome\Extensions\ihenkjeihefokohmemphikjnjbmegdik
+Jun 21, 2020 20:17:49.63 [11680:11112:0621/201749.633:ERROR:external_registry_loader_win.cc(153)] File path "C:\Program Files (x86)\Sony\Media Go\MediaGoDetector.crx" needs to be absolute in key Software\Google\Chrome\Extensions\ihenkjeihefokohmemphikjnjbmegdik
+Jun 21, 2020 20:23:17.18 [8312:18572:0621/202317.185:ERROR:external_registry_loader_win.cc(153)] File path "C:\Program Files (x86)\Sony\Media Go\MediaGoDetector.crx" needs to be absolute in key Software\Google\Chrome\Extensions\ihenkjeihefokohmemphikjnjbmegdik
+Jun 21, 2020 22:12:26.93 [8312:9492:0621/221226.936:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jun 22, 2020 01:22:39.30 [8312:9492:0622/012239.298:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jun 22, 2020 03:05:23.35 [8312:9492:0622/030523.353:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jun 22, 2020 05:05:26.68 [8312:9492:0622/050526.684:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Jun 22, 2020 05:05:28.28 [8312:116:0622/050527.771:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 22, 2020 08:03:27.08 [8312:116:0622/080327.080:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 22, 2020 08:34:05.64 [8312:9492:0622/083405.639:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jun 22, 2020 09:28:15.35 [8312:9492:0622/092815.358:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jun 22, 2020 09:50:49.10 [8312:9492:0622/095049.107:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Jun 22, 2020 12:29:39.80 [8312:9492:0622/122939.800:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Jun 22, 2020 12:29:39.99 [8312:116:0622/122939.803:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 22, 2020 12:29:40.05 [8312:116:0622/122939.818:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2

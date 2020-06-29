@@ -1,0 +1,12 @@
+package com.sh;
+
+public class Register {
+	private String username,email,password,cpassword;
+	private long phone;
+	
+	
+
+	
+
+
+}

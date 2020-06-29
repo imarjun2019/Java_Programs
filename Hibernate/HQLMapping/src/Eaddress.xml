@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+    <!-- POJO CLASS -->
+    <class name="com.One.Eaddress" table="Eaddress">
+        <id name="aid" column="aid">
+         
+            <generator class="assigned"></generator>
+                
+        </id>
+        <property name="street" column="street"/>
+        <property name="city" column="city"/>
+        <property name="state" column="state"/>
+        <property name="zipcode" column="zipcode"/>
+        <one-to-one name="emp" class="com.One.Employee" cascade="all"/>
+    </class>
+</hibernate-mapping>

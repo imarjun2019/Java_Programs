@@ -1,0 +1,17 @@
+package com.spboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
+
+@SpringBootApplication
+public class SpringBootHello {
+    public static void main(String[] args) {
+    	
+        ConfigurableApplicationContext cat = SpringApplication.run(SpringBootHello.class,args);
+        WelcomeBean wb = cat.getBean(WelcomeBean.class);
+        wb.setM
+        System.out.println("\nSpring Boot Application");
+
+    }
+}

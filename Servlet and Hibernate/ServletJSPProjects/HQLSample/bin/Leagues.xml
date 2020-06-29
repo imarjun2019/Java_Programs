@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+    <!-- POJO CLASS -->
+    <class name="com.leagues.Leagues" table="Leagues">
+        <id name="lid" column="lid"/>
+        <property name="name" column="name"/>
+        <property name="country" column="country"/>
+        <property name="total_teams" column="total_teams"/>
+    </class>
+
+</hibernate-mapping>

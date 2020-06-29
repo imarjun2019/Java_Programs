@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/com.springsource.org.hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/commons-pool-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/dom4j-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/org.springframework.orm-3.1.2.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/org.springframework.transaction-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/spring-beans-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/spring-dao-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/spring-jcl-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/spring-jdbc-3.2.4.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring hibernate jdbc/spring-tx-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imarjun2014/Desktop/SpringHibeernateScreenchot/New folder (3)/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="output" path="out/production/Spring_and_Hibernate_Database"/>
+</classpath>

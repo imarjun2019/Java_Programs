@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="cc" class="com.tight.Car" autowire="constructor">
+        <property name="cid" value="1122301"/>
+        <property name="name" value="Aston Martin"/>
+        <property name="make" value="sedan"/>
+        <property name="model" value="Valkyrie"/>
+    </bean>
+
+    <bean id="ec" class="com.tight.Engine">
+        <property name="eid" value="12113"/>
+        <property name="model" value="AMMX"/>
+        <property name="brand" value="ToxicX"/>
+    </bean>
+
+</beans>

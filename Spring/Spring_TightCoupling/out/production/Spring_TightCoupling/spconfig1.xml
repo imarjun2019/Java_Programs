@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="cc" class="com.tightcpl.Car" autowire="constructor">
+
+        <constructor-arg value="1122303"/>
+        <constructor-arg value="BMW"/>
+        <constructor-arg value="SUV"/>
+        <constructor-arg value="i8"/>
+        <constructor-arg ref="ec"/>
+    </bean>
+
+    <bean id="ec" class="com.tightcpl.Engine">
+        <constructor-arg value="12113"/>
+        <constructor-arg value="AMMX"/>
+        <constructor-arg value="TonicX"/>
+    </bean>
+
+
+
+</beans>

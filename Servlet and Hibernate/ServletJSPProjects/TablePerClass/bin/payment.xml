@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.table.Payment" table="payment">
+        <!-- Names must be same as the pojo class name. -->
+
+        <id name="pid" column="pid"/>
+        <!--  
+        // Using discriminator you can have all the tables joined at once.
+        
+        <discriminator column="paymentType" type="string" length="5"></discriminator>
+        <property name="amount" column="name"/>
+
+        <subclass name="com.table.CreditCard" discriminator-value="cc">
+        <property name="creditCardType" column="ccType" length="10"/>
+        </subclass>
+
+        <subclass name="com.table.Cheque" discriminator-value="cq">
+            <property name="chequeType" column="cqType" length="10"/>
+        </subclass>
+        -->
+        
+        <!--  
+        
+        <property name="amount" column="amount"></property>
+        <joined-subclass name="com.table.CreditCard" table ="creditcard">
+        <key column="creditID"/>
+        <property name="creditCardType" column="ccType" length="10"/>
+        </joined-subclass>
+        
+        <joined-subclass name="com.table.Cheque" table ="cheque">
+        <key column="chequeID"/>
+        <property name="chequeType" column="cqType" length="10"/>
+        </joined-subclass>
+        
+        -->
+        
+        <property name="amount" column="amount"></property>
+        
+        <union-subclass name="com.table.CreditCard">
+        <property name="creditCardType" column="ccType" length="10"/>
+        </union-subclass>
+        
+        
+        <union-subclass name="com.table.Cheque">
+        <property name="chequeType" column="cqType" length="10"/>
+        </union-subclass>
+
+    </class>
+</hibernate-mapping>

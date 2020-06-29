@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util https://www.springframework.org/schema/util/spring-util.xsd">
+<bean id="ques" class="com.map.Questions">
+
+    <constructor-arg value="01" type="int"></constructor-arg>
+    <constructor-arg value = "What is Object in Java?"></constructor-arg>
+    <constructor-arg>
+        <map>
+        <entry key="a" value="Object do not have states and behaviour"/>
+        <entry key="b" value="Object deallocates the memory in java"/>
+        <entry key="c" value="Object is the sub class of all the classes in java"/>
+        <entry key="d" value="An object is an instance of a class. Class − A class can be defined as a template/blueprint that describes the behavior/state that the object of its type support."/>
+
+        </map>
+    </constructor-arg>
+</bean>
+</beans>

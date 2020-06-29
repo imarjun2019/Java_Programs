@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home Page</title>
+</head>
+<body bgcolor="	87CEEB">
+<br><br><br>
+<form action="./login_servlet">
+Username:<input type="text" name="user"> 
+Password:<input type="password" name="pass">
+
+<input type="submit" value="Register"> 
+</form>
+
+</body >
+</html>

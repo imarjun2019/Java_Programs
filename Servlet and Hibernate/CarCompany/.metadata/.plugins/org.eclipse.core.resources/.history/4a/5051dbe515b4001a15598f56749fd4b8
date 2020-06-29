@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+
+<servlet>
+    <servlet-name>register</servlet-name>
+    <servlet-class>com.sh.RegisterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>register</servlet-name>
+    <url-pattern>/register_servlet</url-pattern>
+  </servlet-mapping>
+  
+  
+
+
+
+</web-app>

@@ -1,0 +1,48 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<bean id="con" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+<!-- 
+
+  <property name="driverClassName" value="oracle.jdbc.driver.OracleDriver"/>
+    <property name="url" value="jdbc:oracle:thin:@localhost:1521:xe"/>
+    <property name="username" value="orcl"/>
+    <property name="password" value="Arjun226"/>
+    
+ -->
+ 
+ <property name ="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
+ <property name="url" value="jdbc:mysql://localhost:3306/lr"/>
+    <property name="username" value="root"/>
+    <property name="password" value="root"/>
+ 
+ 
+ 
+   
+</bean>
+
+    <bean id="aa" class="org.springframework.orm.hibernate3.LocalSessionFactoryBean">
+
+        <property name="dataSource" ref="con"/>
+        <property name="mappingResources">
+            <list>
+                <value>student.xml</value>
+            </list>
+        </property>
+        <property name="hibernateProperties">
+            <props>
+				<prop key="dialect">org.hibernate.dialect.MySQLDialect</prop>
+                <prop key="hibernate.hbm2ddl.auto">update</prop>
+                <prop key="hibernate.show_sql">true</prop>
+            </props>
+        </property>
+    </bean>
+
+    <bean id="template" class="org.springframework.orm.hibernate3.HibernateTemplate">
+        <property name="sessionFactory" ref="aa"/>
+    </bean>
+
+    <bean id="student" class="com.sph.StudentDao">
+        <property name="ht" ref="template"/>
+    </bean>
+</beans>

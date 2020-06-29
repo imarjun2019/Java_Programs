@@ -1,0 +1,15 @@
+<web-app>
+
+<servlet>
+<servlet-name>firstApp</servlet-name>
+<servlet-class>com.company.RegisterEmployee</servlet-class>
+</servlet>
+
+
+<servlet-mapping>
+<servlet-name>firstApp</servlet-name>
+<url-pattern>/eRegister</url-pattern>
+</servlet-mapping>
+
+
+</web-app>
